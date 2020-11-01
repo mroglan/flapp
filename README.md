@@ -1,1 +1,3 @@
 # flapp
+
+Basically flappy bird.
